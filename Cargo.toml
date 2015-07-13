@@ -1,0 +1,7 @@
+[package]
+name = "sertest"
+version = "0.1.0"
+authors = ["Tibor Benke <tibor.benke@balabit.com>"]
+
+[dependencies]
+serde = "0.4"
